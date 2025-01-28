@@ -6,10 +6,12 @@
   <br/>
 </p>
 
-# pdfkit-table
+# pdf-kit-table
 
 #### Generate pdf tables with javascript (PDFKIT plugin)
 Helps to draw informations in simple tables using pdfkit. #server-side.
+
+This repository is a ford from https://github.com/natancabral/pdfkit-table with a small dependency fix to allow it to run in older node environments.
 
 
 ## Examples
